@@ -1,6 +1,9 @@
 console.log("day 1 task completed");
 console.log("day 2 task completed");
+console.log("day 3 task completed");
 console.log("day 4 task completed");
+console.log("day 5 task completed");
+
 
 /* 
 Loops
@@ -89,3 +92,4 @@ while(evenNum<=20)
     console.log(evenNum);
     evenNum = evenNum+2;
   }
+  
