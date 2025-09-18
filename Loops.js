@@ -1,6 +1,3 @@
-console.log("day 1 task completed");
-console.log("day 2 task completed");
-
 /* 
 Loops
 loops in javascript are used to execute a block of code repetedly, eithe a set number of times or while the codition is true.
@@ -88,3 +85,4 @@ while(evenNum<=20)
     console.log(evenNum);
     evenNum = evenNum+2;
   }
+  
