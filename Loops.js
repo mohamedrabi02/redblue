@@ -1,3 +1,6 @@
+console.log("day 3 task completed");
+
+
 /* 
 Loops
 loops in javascript are used to execute a block of code repetedly, eithe a set number of times or while the codition is true.
